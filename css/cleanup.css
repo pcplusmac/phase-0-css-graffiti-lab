@@ -6,6 +6,11 @@
 div#wall #tag-2 {
     display:none;
 }
+
+div#wall div#tag-3.slick {
+    display:none;
+}
+
 #tag-4, #tag-5, #tag-6,#tag-7 {
     display: none;
 }
